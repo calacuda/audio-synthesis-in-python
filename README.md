@@ -16,10 +16,10 @@ pygame
 
 
 ### Mapping:
-
+~~~
  w e   t y u   o p 
 a s d f g h j k l ;
-
+~~~
 its just like a piano with the note "C" being mapped to the keyboard key "a".
 if you hold down the shift key (or use the caps lock key) you can get notes
 that are an octave lower.
