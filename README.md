@@ -7,13 +7,13 @@ program to tell you that it loaded in X seconds, and you're ready to play!
 
 
 ### Requirments:
-
+~~~
 python3 (3.6 or higher)
 numpy
 scipy
 simpleaudio
 pygame
-
+~~~
 
 ### Mapping:
 ~~~
